@@ -47,6 +47,7 @@
 - **Private posts.** For Instagram, X and other posts that need a login, the app can use the login from your browser. You never type a password into the app.
 - **Live progress.** Speed, time left, three downloads at once, and Cancel / Retry / Open / Show in Finder for each one.
 - **Sets itself up.** On first launch it installs its download engines automatically, in about 30 seconds. No Terminal, no extra installs.
+- **Stays current by itself.** Every time you open it, the app quietly updates its download engines, so sites that change keep working. There's no button to remember.
 - **Updates itself.** When a new version comes out, the app shows **Update now**. One click installs it and restarts.
 - **Light and dark mode**, matching your system.
 
@@ -96,7 +97,7 @@ Get both files from **[Releases](../../releases/latest)**.
 
 1. Download `Universal-Downloader-<version>.exe` and put it wherever you like (Desktop, Documents…). There's nothing to install.
 2. If **"Windows protected your PC"** appears, click **More info → Run anyway**. You only do this once.
-3. Click **Install engines** in the app. It downloads about 130 MB, once.
+3. Setup starts by itself on first launch. It downloads about 130 MB, once.
 
 ## How to use
 
@@ -115,7 +116,7 @@ On Mac, Brave and Chrome ask once for keychain access (click **Always Allow**); 
 On Windows, use **Firefox**: Windows doesn't let other apps read Chrome, Edge or Brave logins.
 
 **A site stopped working.**
-Sites change often. Click **Update engines** at the bottom of the app; it takes a few seconds.
+Sites change often. Close and reopen the app: it updates its download engines every time it opens. If a new app version is out, it also offers **Update now**.
 
 **Why does my Mac or PC warn me the first time?**
 The app isn't sold through the App Store or Microsoft Store, so your computer doesn't recognise it yet. Approve it once as described in [Install](#install). Updates installed from inside the app normally don't ask again.
@@ -125,6 +126,16 @@ That's the largest size LinkedIn shows to visitors who aren't logged in.
 
 **Can it download a whole YouTube playlist or channel?**
 It's built for single posts and videos. Playlist links download their videos one by one.
+
+## Made by
+
+Universal Downloader is made by **dothack009**. Say hi or follow for updates:
+
+<a href="https://www.facebook.com/k.hasan.36"><img src="docs/icons/brand-facebook.png" width="28" alt="Facebook"></a>&nbsp;
+<a href="https://www.instagram.com/kam_rul_69/"><img src="docs/icons/brand-instagram.png" width="28" alt="Instagram"></a>&nbsp;
+<a href="https://github.com/dothack009"><img src="docs/icons/brand-github.png" width="28" alt="GitHub"></a>
+
+[Facebook](https://www.facebook.com/k.hasan.36) · [Instagram](https://www.instagram.com/kam_rul_69/) · [GitHub](https://github.com/dothack009)
 
 ## Built with
 
