@@ -129,13 +129,7 @@ It's built for single posts and videos. Playlist links download their videos one
 
 ## Made by
 
-Universal Downloader is made by **dothack009**. Say hi or follow for updates:
-
-<a href="https://www.facebook.com/k.hasan.36"><img src="docs/icons/brand-facebook.png" width="28" alt="Facebook"></a>&nbsp;
-<a href="https://www.instagram.com/kam_rul_69/"><img src="docs/icons/brand-instagram.png" width="28" alt="Instagram"></a>&nbsp;
-<a href="https://github.com/dothack009"><img src="docs/icons/brand-github.png" width="28" alt="GitHub"></a>
-
-[Facebook](https://www.facebook.com/k.hasan.36) · [Instagram](https://www.instagram.com/kam_rul_69/) · [GitHub](https://github.com/dothack009)
+<samp>UNIVERSAL DOWNLOADER — By <a href="https://www.instagram.com/kam_rul_69/"><b>MOHAMMAD-HASAN</b></a></samp>
 
 ## Built with
 
