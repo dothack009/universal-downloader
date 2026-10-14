@@ -1,6 +1,6 @@
 # Universal Downloader
 
-Download videos and photos from **YouTube, Facebook, Instagram, Threads, X, Pinterest and TikTok** on Mac and Windows.
+Download videos and photos from **YouTube, Facebook, Instagram, Threads, X, Pinterest, TikTok and LinkedIn** on Mac and Windows.
 
 ## Download
 
