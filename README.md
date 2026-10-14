@@ -97,7 +97,7 @@ Get both files from **[Releases](../../releases/latest)**.
 
 1. Download `Universal-Downloader-<version>.exe` and put it wherever you like (Desktop, Documents…). There's nothing to install.
 2. If **"Windows protected your PC"** appears, click **More info → Run anyway**. You only do this once.
-3. Setup starts by itself on first launch. It downloads about 130 MB, once.
+3. Setup starts by itself on first launch. It downloads about 170 MB, once.
 
 ## How to use
 
@@ -114,6 +114,11 @@ Files go to **Downloads → Universal Downloader** unless you choose another fol
 Log in to the site in your browser, then pick that browser under **Login** in the app and press **Retry**.
 On Mac, Brave and Chrome ask once for keychain access (click **Always Allow**); Safari needs Full Disk Access for the app.
 On Windows, use **Firefox**: Windows doesn't let other apps read Chrome, Edge or Brave logins.
+
+**YouTube says "Sign in to confirm you're not a bot".**
+YouTube sometimes asks a whole internet connection to prove it's human, often on shared or mobile networks and VPNs.
+The app automatically retries in a different way, which usually works. If it still fails, sign in to YouTube in your browser
+(on Windows, use **Firefox**), pick that browser under **Login** and press **Retry**. Turning off a VPN or switching networks also helps.
 
 **A site stopped working.**
 Sites change often. Close and reopen the app: it updates its download engines every time it opens. If a new app version is out, it also offers **Update now**.
