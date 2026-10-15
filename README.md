@@ -82,7 +82,7 @@ The start screen marks each platform **FREE** or **PRO**, and turns the Pro tags
 
 **Get a code.** Message [MOHAMMAD-HASAN on Instagram](https://www.instagram.com/kam_rul_69/). Codes look like `ABCDE-FGHJK`.
 
-**Activate it.** Click **Unlock Pro** at the bottom of the window (on Mac it's also in the app menu), type the code and click **Activate**.
+**Activate it.** Click **Unlock Pro** at the bottom of the window (on Mac it's also in the app menu), enter your email and the code, and click **Activate**.
 You need an internet connection for this step only.
 
 <img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: TikTok, LinkedIn, Pinterest and Threads with a lock, a license code box, and Activate">
@@ -98,7 +98,7 @@ Activate your code and the waiting downloads start by themselves.
 - **New computer?** On the old one, open **Pro** and click **Remove License**, then activate the same code on the new one.
   If the old computer is gone, message MOHAMMAD-HASAN and the code will be moved for you.
 - **Works offline.** After activation Pro keeps working without internet. About once a day the app quietly checks that the code is still yours.
-- **Private.** Activation sends the code and an anonymous device ID (a one-way fingerprint of your computer's hardware ID, not the ID itself) plus your computer's name, so you can tell your devices apart. Nothing else.
+- **What's sent.** Activation sends the code, your email, an anonymous device ID (a one-way fingerprint of your computer's hardware ID, not the ID itself), your computer's name and its type (for example "Mac · MacBook Air (M2, 2022) · macOS 26.0" or "Windows 11 · Dell XPS 13"). That's used only to manage your license. Nothing else is sent.
 - **Updates keep Pro.** Installing a new version doesn't remove your license.
 
 ## A closer look
