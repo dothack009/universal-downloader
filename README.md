@@ -20,8 +20,8 @@
   <img src="docs/icons/brand-youtube.png" width="36" alt="YouTube">&nbsp;
   <img src="docs/icons/brand-facebook.png" width="36" alt="Facebook">&nbsp;
   <img src="docs/icons/brand-instagram.png" width="36" alt="Instagram">&nbsp;
-  <img src="docs/icons/brand-threads.png" width="36" alt="Threads">&nbsp;
   <img src="docs/icons/brand-x.png" width="36" alt="X">&nbsp;
+  <img src="docs/icons/brand-threads.png" width="36" alt="Threads">&nbsp;
   <img src="docs/icons/brand-pinterest.png" width="36" alt="Pinterest">&nbsp;
   <img src="docs/icons/brand-tiktok.png" width="36" alt="TikTok">&nbsp;
   <img src="docs/icons/brand-linkedin.png" width="36" alt="LinkedIn">
@@ -58,8 +58,8 @@
 | <img src="docs/icons/brand-youtube.png" width="24"> | YouTube | ✅ | | Up to 4K. Audio as MP3 or WAV. |
 | <img src="docs/icons/brand-facebook.png" width="24"> | Facebook | ✅ | ✅ | Some posts need your login. |
 | <img src="docs/icons/brand-instagram.png" width="24"> | Instagram | ✅ | ✅ | Posts, reels and carousels. Instagram usually needs your login. |
-| <img src="docs/icons/brand-threads.png" width="24"> | Threads | ✅ | ✅ | Public posts, including mixed photo and video carousels. |
 | <img src="docs/icons/brand-x.png" width="24"> | X (Twitter) | ✅ | ✅ | Photo posts need your login. |
+| <img src="docs/icons/brand-threads.png" width="24"> | Threads | ✅ | ✅ | Public posts, including mixed photo and video carousels. |
 | <img src="docs/icons/brand-pinterest.png" width="24"> | Pinterest | ✅ | ✅ | Video and image pins. |
 | <img src="docs/icons/brand-tiktok.png" width="24"> | TikTok | ✅ | ✅ | Videos and photo slideshows. |
 | <img src="docs/icons/brand-linkedin.png" width="24"> | LinkedIn | ✅ | ✅ | Public posts. Photos come at LinkedIn's public size (800px). |
