@@ -6,13 +6,15 @@
 
 <p align="center">
   Save videos, photos and audio from <b>YouTube, Facebook, Instagram, Threads, X, Pinterest, TikTok and LinkedIn</b>.<br>
-  Native apps for <b>Mac</b> and <b>Windows</b>. Paste a link and it downloads.
+  Native apps for <b>Mac</b> and <b>Windows</b>. Paste a link and it downloads.<br>
+  YouTube, Facebook, Instagram and X are <b>free</b>. Threads, Pinterest, TikTok and LinkedIn are <b>Pro</b>, unlocked with a license code.
 </p>
 
 <p align="center">
   <a href="../../releases/latest"><b>⬇ Download the latest version</b></a>
   &nbsp;·&nbsp; <a href="#install">Install</a>
   &nbsp;·&nbsp; <a href="#how-to-use">How to use</a>
+  &nbsp;·&nbsp; <a href="#free-and-pro">Free &amp; Pro</a>
   &nbsp;·&nbsp; <a href="#faq">FAQ</a>
 </p>
 
@@ -39,6 +41,7 @@
 
 - **Paste and go.** Copy a link and press **Paste & Download** (⇧⌘V on Mac, Ctrl+Shift+V on Windows). Paste several links at once, or drag them onto the window.
 - **8 platforms, one app.** Auto mode picks the right method for each site and gets photos *and* videos, including carousels with both.
+- **Free and Pro.** YouTube, Facebook, Instagram and X are free forever. A Pro license code adds Threads, Pinterest, TikTok and LinkedIn. See [Free & Pro](#free-and-pro).
 - **Editing-friendly video.** By default videos are saved as **H.264 MP4**, which opens in QuickTime, Premiere Pro, After Effects, Final Cut and DaVinci Resolve.
 - **Quality up to 4K.** Choose Best available, 4K, 1440p, 1080p, 720p or 480p.
 - **Audio only.** Save as **MP3** (small) or **WAV** (lossless 16-bit PCM, ready for editing).
@@ -53,16 +56,50 @@
 
 ## Supported platforms
 
-| | Platform | Videos | Photos | Notes |
-|:-:|---|:-:|:-:|---|
-| <img src="docs/icons/brand-youtube.png" width="24"> | YouTube | ✅ | | Up to 4K. Audio as MP3 or WAV. |
-| <img src="docs/icons/brand-facebook.png" width="24"> | Facebook | ✅ | ✅ | Some posts need your login. |
-| <img src="docs/icons/brand-instagram.png" width="24"> | Instagram | ✅ | ✅ | Posts, reels and carousels. Instagram usually needs your login. |
-| <img src="docs/icons/brand-x.png" width="24"> | X (Twitter) | ✅ | ✅ | Photo posts need your login. |
-| <img src="docs/icons/brand-threads.png" width="24"> | Threads | ✅ | ✅ | Public posts, including mixed photo and video carousels. |
-| <img src="docs/icons/brand-pinterest.png" width="24"> | Pinterest | ✅ | ✅ | Video and image pins. |
-| <img src="docs/icons/brand-tiktok.png" width="24"> | TikTok | ✅ | ✅ | Videos and photo slideshows. |
-| <img src="docs/icons/brand-linkedin.png" width="24"> | LinkedIn | ✅ | ✅ | Public posts. Photos come at LinkedIn's public size (800px). |
+| | Platform | Plan | Videos | Photos | Notes |
+|:-:|---|:-:|:-:|:-:|---|
+| <img src="docs/icons/brand-youtube.png" width="24"> | YouTube | Free | ✅ | | Up to 4K. Audio as MP3 or WAV. |
+| <img src="docs/icons/brand-facebook.png" width="24"> | Facebook | Free | ✅ | ✅ | Some posts need your login. |
+| <img src="docs/icons/brand-instagram.png" width="24"> | Instagram | Free | ✅ | ✅ | Posts, reels and carousels. Instagram usually needs your login. |
+| <img src="docs/icons/brand-x.png" width="24"> | X (Twitter) | Free | ✅ | ✅ | Photo posts need your login. |
+| <img src="docs/icons/brand-threads.png" width="24"> | Threads | **Pro** | ✅ | ✅ | Public posts, including mixed photo and video carousels. |
+| <img src="docs/icons/brand-pinterest.png" width="24"> | Pinterest | **Pro** | ✅ | ✅ | Video and image pins. |
+| <img src="docs/icons/brand-tiktok.png" width="24"> | TikTok | **Pro** | ✅ | ✅ | Videos and photo slideshows. |
+| <img src="docs/icons/brand-linkedin.png" width="24"> | LinkedIn | **Pro** | ✅ | ✅ | Public posts. Photos come at LinkedIn's public size (800px). |
+
+## Free and Pro
+
+Everything in the app is free for **YouTube, Facebook, Instagram and X**: every quality, audio, photos, and updates.
+A **Pro license code** unlocks four more platforms: **Threads, Pinterest, TikTok and LinkedIn**.
+The start screen marks each platform **FREE** or **PRO**, and turns the Pro tags green once they're unlocked.
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/pro-locked-start.png" width="400" alt="Start screen without Pro: Threads, Pinterest, TikTok and LinkedIn show a lock and an orange PRO tag"><br><sub>Without Pro</sub></td>
+    <td align="center"><img src="docs/pro-unlocked-start.png" width="400" alt="Start screen with Pro: every platform unlocked, PRO tags in green and a green Pro button"><br><sub>With Pro</sub></td>
+  </tr>
+</table>
+
+**Get a code.** Message [MOHAMMAD-HASAN on Instagram](https://www.instagram.com/kam_rul_69/). Codes look like `ABCDE-FGHJK`.
+
+**Activate it.** Click **Unlock Pro** at the bottom of the window (on Mac it's also in the app menu), type the code and click **Activate**.
+You need an internet connection for this step only.
+
+<img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: TikTok, LinkedIn, Pinterest and Threads with a lock, a license code box, and Activate">
+
+**Pasted a Pro link without a license?** It waits in the list with an **Unlock** button instead of downloading.
+Activate your code and the waiting downloads start by themselves.
+
+<img src="docs/pro-locked-queue.png" width="820" alt="Threads and TikTok links waiting with an orange Unlock button, next to a finished YouTube download">
+
+**How licenses work**
+
+- **One code, one computer.** A code is activated on one Mac or PC at a time. Trying it on a second computer shows which device it's active on.
+- **New computer?** On the old one, open **Pro** and click **Remove License**, then activate the same code on the new one.
+  If the old computer is gone, message MOHAMMAD-HASAN and the code will be moved for you.
+- **Works offline.** After activation Pro keeps working without internet. About once a day the app quietly checks that the code is still yours.
+- **Private.** Activation sends the code and an anonymous device ID (a one-way fingerprint of your computer's hardware ID, not the ID itself) plus your computer's name, so you can tell your devices apart. Nothing else.
+- **Updates keep Pro.** Installing a new version doesn't remove your license.
 
 ## A closer look
 
@@ -105,6 +142,7 @@ Get both files from **[Releases](../../releases/latest)**.
 2. In the app, press **Paste & Download**, or paste into the box and press **Download**.
 3. Choose **Type** if you want: **Auto** (everything), **Video**, **Audio** (MP3/WAV) or **Photos**.
 4. When it finishes, press ▶ to open the file or 🔍 to show it in its folder.
+5. For Threads, Pinterest, TikTok or LinkedIn, click **Unlock Pro** once and enter your license code ([Free & Pro](#free-and-pro)).
 
 Files go to **Downloads → Universal Downloader** unless you choose another folder under **Save to**.
 
@@ -128,6 +166,13 @@ The app isn't sold through the App Store or Microsoft Store, so your computer do
 
 **Why are LinkedIn photos only 800px?**
 That's the largest size LinkedIn shows to visitors who aren't logged in.
+
+**My license code says "already active on another device".**
+Each code works on one computer at a time. Remove it on the other computer first (**Pro → Remove License**), or message
+[MOHAMMAD-HASAN](https://www.instagram.com/kam_rul_69/) to move it.
+
+**Does Pro work on both Mac and Windows?**
+Yes. The same kind of code works in both apps, on one computer at a time.
 
 **Can it download a whole YouTube playlist or channel?**
 It's built for single posts and videos. Playlist links download their videos one by one.
