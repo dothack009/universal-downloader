@@ -45,6 +45,8 @@
 - **Free and Pro.** YouTube, Facebook and Instagram are free forever. A Pro license adds five more platforms and the power tools. See [Free & Pro](#free-and-pro).
 - **Editing-friendly video.** By default videos are saved as **H.264 MP4**, which opens in QuickTime, Premiere Pro, After Effects, Final Cut and DaVinci Resolve.
 - **Quality up to 4K.** Choose Best available, 4K, 1440p, 1080p, 720p or 480p.
+- **Just the part you need.** Tick **Only download a part**, type a start and end like `1:05` to `2:30`, and only that stretch
+  of a long video downloads. It works for video and audio. Free.
 - **Audio only.** Save as **MP3** (small) or **WAV** (lossless 16-bit PCM, ready for editing).
 - **Photos.** Full-resolution images and whole carousels, with WebP photos converted to JPG automatically.
 - **Save where you want.** Pick a default folder, or have the app **ask where to save each time**.
@@ -77,6 +79,7 @@
 | Video quality | up to 1080p | up to 4K |
 | Audio | MP3 | MP3 and WAV |
 | Photos and carousels, H.264 MP4, WebP to JPG, browser login | ✅ | ✅ |
+| Download only a part of a video | ✅ | ✅ |
 | Links per paste | one | many at once |
 | Downloads at the same time | one | three |
 | Save location | Downloads › Universal Downloader | any folder, or ask each time |
@@ -123,6 +126,13 @@ Activate your code and the waiting downloads start by themselves.
   <source media="(prefers-color-scheme: light)" srcset="docs/audio-light.png">
   <img src="docs/audio-dark.png" width="820" alt="Audio mode with WAV format selected">
 </picture>
+
+**Only the part you need.** Download a few minutes of an hour-long video instead of the whole thing. Tick
+**Only download a part** and type where it starts and ends (`45`, `1:05` or `1:02:30`; leave the end empty to go to the end).
+The cut lands exactly on your times, the file name says which part it is, and the option turns itself off after that link,
+so your next download is whole again.
+
+<img src="docs/part-download.png" width="820" alt="Only download a part ticked with 1:05 to 1:20; the finished Big Buck Bunny download shows a scissors tag 1:05 – 1:20">
 
 **First launch sets itself up.** The app downloads its engines with a progress bar. You can paste links straight away; they start as soon as setup is done.
 
@@ -186,6 +196,10 @@ Each code works on one computer at a time. Remove it on the other computer first
 
 **Does Pro work on both Mac and Windows?**
 Yes. The same kind of code works in both apps, on one computer at a time.
+
+**Can I download just a few minutes of a long video?**
+Yes. Tick **Only download a part**, enter the start and end time, then paste the link. Only that part downloads, so a
+2-minute clip from a 2-hour video takes seconds, not the whole video's time and space.
 
 **Can it download a whole YouTube playlist or channel?**
 It's built for single posts and videos. Playlist links download their videos one by one.
