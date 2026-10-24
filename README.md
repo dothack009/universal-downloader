@@ -43,7 +43,8 @@
 - **Paste and go.** Copy a link and press **Paste & Download** (⇧⌘V on Mac, Ctrl+Shift+V on Windows). Paste several links at once, or drag them onto the window.
 - **8 platforms, one app.** Auto mode picks the right method for each site and gets photos *and* videos, including carousels with both.
 - **Free and Pro.** YouTube, Facebook and Instagram are free forever. A Pro license adds five more platforms and the power tools. See [Free & Pro](#free-and-pro).
-- **Editing-friendly video.** By default videos are saved as **H.264 MP4**, which opens in QuickTime, Premiere Pro, After Effects, Final Cut and DaVinci Resolve.
+- **Editing-friendly video.** By default videos are saved as **H.264 MP4**, which opens in QuickTime, Premiere Pro, After Effects, Final Cut and DaVinci Resolve,
+  at the highest quality available. When a site only has its best quality in another format (Instagram's 1080p, YouTube's 4K), the app converts it to H.264 for you.
 - **Quality up to 4K.** Choose Best available, 4K, 1440p, 1080p, 720p or 480p.
 - **Just the part you need.** Turn on **Only download a part**, paste the link, then drag the yellow handles on the video's
   timeline while the preview plays, or type a start and end like `1:05` to `2:30`. Only that stretch downloads. It works for
