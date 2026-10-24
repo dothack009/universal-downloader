@@ -34,7 +34,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/hero-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="docs/hero-light.png">
-    <img src="docs/hero-dark.png" width="820" alt="Universal Downloader on Mac, downloading from YouTube and TikTok, with finished Threads, LinkedIn and Pinterest downloads">
+    <img src="docs/hero-dark.png" width="820" alt="Universal Downloader on Mac: one big link box, the options under it, and downloads from YouTube, TikTok, Threads, Pinterest and LinkedIn">
   </picture>
 </p>
 
@@ -45,17 +45,19 @@
 - **Free and Pro.** YouTube, Facebook and Instagram are free forever. A Pro license adds five more platforms and the power tools. See [Free & Pro](#free-and-pro).
 - **Editing-friendly video.** By default videos are saved as **H.264 MP4**, which opens in QuickTime, Premiere Pro, After Effects, Final Cut and DaVinci Resolve.
 - **Quality up to 4K.** Choose Best available, 4K, 1440p, 1080p, 720p or 480p.
-- **Just the part you need.** Tick **Only download a part**, type a start and end like `1:05` to `2:30`, and only that stretch
-  of a long video downloads. It works for video and audio. Free.
+- **Just the part you need.** Turn on **Only download a part**, paste the link, then drag the yellow handles on the video's
+  timeline while the preview plays, or type a start and end like `1:05` to `2:30`. Only that stretch downloads. It works for
+  video and audio. Free.
 - **Audio only.** Save as **MP3** (small) or **WAV** (lossless 16-bit PCM, ready for editing).
 - **Photos.** Full-resolution images and whole carousels, with WebP photos converted to JPG automatically.
 - **Save where you want.** Pick a default folder, or have the app **ask where to save each time**.
 - **Private posts.** For Instagram, X and other posts that need a login, the app can use the login from your browser. You never type a password into the app.
-- **Live progress.** Speed, time left, three downloads at once, and Cancel / Retry / Open / Show in Finder for each one.
+- **Live progress.** Speed, time left, three downloads at once, Stop / Retry / Show in Finder for each one, and
+  All / In progress / Finished tabs.
 - **Sets itself up.** On first launch it installs its download engines automatically, in about 30 seconds. No Terminal, no extra installs.
 - **Stays current by itself.** Every time you open it, the app quietly updates its download engines, so sites that change keep working. There's no button to remember.
 - **Updates itself.** When a new version comes out, the app shows **Update now**. One click installs it and restarts.
-- **Light and dark mode**, matching your system.
+- **A clean, simple window.** One big link box with everything else right under it, in light and dark mode to match your system.
 
 ## Supported platforms
 
@@ -85,28 +87,28 @@
 | Save location | Downloads › Universal Downloader | any folder, or ask each time |
 | Updates | ✅ | ✅ |
 
-The start screen marks each platform **FREE** or **PRO**, and Pro options carry a **Pro** tag. Picking one without a license
-opens Unlock Pro and says what it needs.
+Under the link box, the Pro platforms stay dimmed until you unlock them, and Pro options carry a **PRO** tag. Picking one
+without a license opens Unlock Pro and says what it needs.
 
 <table>
   <tr>
-    <td align="center"><img src="docs/pro-locked-start.png" width="400" alt="Start screen without Pro: X, Threads, Pinterest, TikTok and LinkedIn show a lock and an orange PRO tag; Quality says Best (up to 1080p)"><br><sub>Without Pro</sub></td>
-    <td align="center"><img src="docs/pro-unlocked-start.png" width="400" alt="Start screen with Pro: every platform unlocked, PRO tags in green and a green Pro button"><br><sub>With Pro</sub></td>
+    <td align="center"><img src="docs/pro-locked-start.png" width="400" alt="Without Pro: TikTok, X, Threads, Pinterest and LinkedIn are dimmed, Ask each time has a PRO tag, and the footer says Unlock Pro"><br><sub>Without Pro</sub></td>
+    <td align="center"><img src="docs/pro-unlocked-start.png" width="400" alt="With Pro: every platform logo in full colour, 3 downloads at a time and a green Pro button"><br><sub>With Pro</sub></td>
   </tr>
 </table>
 
 **Get Pro.** Buy it on [SupportKori](https://www.supportkori.com/mohammad989/extras/universal-downloader-pro-lifetime-license-mac-windows-83m6) for ৳200 (bKash, Nagad, Rocket or card). You get your license key right away,
 on the page and by email. You can also message [MOHAMMAD-HASAN on Instagram](https://www.instagram.com/kam_rul_69/) for a code.
 
-**Activate it.** Click **Unlock Pro** at the bottom of the window (on Mac it's also in the app menu), enter your email and the key, and click **Activate**.
+**Activate it.** Click **Unlock Pro** at the bottom of the window (on Mac it's also in the app menu), enter your email and the key, and click **Unlock**.
 You need an internet connection for this step only.
 
-<img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: the five Pro platforms and Pro tools with a lock, email and license key boxes, and Activate">
+<img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: what Pro includes, the five Pro platforms, email and license code boxes, Get a code and Unlock">
 
-**Pasted a Pro link without a license?** It waits in the list with an **Unlock** button instead of downloading.
+**Pasted a Pro link without a license?** It waits in the list as **Pro platform** with an **Unlock** button instead of downloading.
 Activate your code and the waiting downloads start by themselves.
 
-<img src="docs/pro-locked-queue.png" width="820" alt="Threads and TikTok links waiting with an orange Unlock button, next to a finished YouTube download">
+<img src="docs/pro-locked-queue.png" width="820" alt="A TikTok link waiting in the list: Pro platform, with a blue Unlock button">
 
 **How licenses work**
 
@@ -127,12 +129,13 @@ Activate your code and the waiting downloads start by themselves.
   <img src="docs/audio-dark.png" width="820" alt="Audio mode with WAV format selected">
 </picture>
 
-**Only the part you need.** Download a few minutes of an hour-long video instead of the whole thing. Tick
-**Only download a part** and type where it starts and ends (`45`, `1:05` or `1:02:30`; leave the end empty to go to the end).
-The cut lands exactly on your times, the file name says which part it is, and the option turns itself off after that link,
-so your next download is whole again.
+**Only the part you need.** Download a few minutes of an hour-long video instead of the whole thing. Turn on
+**Only download a part** and paste the link: **Choose the part** opens with a live preview. Drag the yellow ‹ › handles to
+where the part starts and ends (the white playhead shows the exact time), press ▶ to watch it, or type the times
+(`45`, `1:05` or `1:02:30`). Then press **Download part**. Only those bytes download, so it's fast; the cut lands exactly
+on your times, the file name says which part it is, and the option turns itself off after that link.
 
-<img src="docs/part-download.png" width="820" alt="Only download a part ticked with 1:05 to 1:20; the finished Big Buck Bunny download shows a scissors tag 1:05 – 1:20">
+<img src="docs/part-download.png" width="820" alt="Choose the part: a Big Buck Bunny preview, the filmstrip with the part in a yellow frame from 2:10 to 4:40, a white playhead with its time, and Download part">
 
 **First launch sets itself up.** The app downloads its engines with a progress bar. You can paste links straight away; they start as soon as setup is done.
 
@@ -140,7 +143,7 @@ so your next download is whole again.
 
 **Updates arrive by themselves.** When a new version is published here, every installed copy offers it.
 
-<img src="docs/update-banner.png" width="820" alt="Version 1.7 is available, with Later and Update now buttons">
+<img src="docs/update-banner.png" width="820" alt="Version 1.19 is available, with Later and Update now buttons">
 
 ## Install
 
@@ -164,7 +167,7 @@ Get both files from **[Releases](../../releases/latest)**.
 1. Copy a link to a post or video from any supported site.
 2. In the app, press **Paste & Download**, or paste into the box and press **Download**.
 3. Choose **Type** if you want: **Auto** (everything), **Video**, **Audio** (MP3/WAV) or **Photos**.
-4. When it finishes, press ▶ to open the file or 🔍 to show it in its folder.
+4. When it finishes, press **Show in Finder** (**Show in folder** on Windows), or double-click it to open the file.
 5. For X, Threads, Pinterest, TikTok or LinkedIn, 4K, WAV or many links at once, click **Unlock Pro** once and enter your license key ([Free & Pro](#free-and-pro)).
 
 Files go to **Downloads → Universal Downloader** unless you choose another folder under **Save to**.
@@ -173,7 +176,7 @@ Files go to **Downloads → Universal Downloader** unless you choose another fol
 
 **Instagram or X says it needs a login.**
 Log in to the site in your browser, then pick that browser under **Login** in the app and press **Retry**.
-On Mac, Brave and Chrome ask once for keychain access (click **Always Allow**); Safari needs Full Disk Access for the app.
+On Mac, choose Chrome, Brave or Safari: Brave and Chrome ask once for keychain access (click **Always Allow**); Safari needs Full Disk Access for the app.
 On Windows, use **Firefox**: Windows doesn't let other apps read Chrome, Edge or Brave logins.
 
 **YouTube says "Sign in to confirm you're not a bot".**
@@ -198,8 +201,8 @@ Each code works on one computer at a time. Remove it on the other computer first
 Yes. The same kind of code works in both apps, on one computer at a time.
 
 **Can I download just a few minutes of a long video?**
-Yes. Tick **Only download a part**, enter the start and end time, then paste the link. Only that part downloads, so a
-2-minute clip from a 2-hour video takes seconds, not the whole video's time and space.
+Yes. Turn on **Only download a part**, paste the link, and choose the part on the timeline (or type the times). Only that
+part downloads, so a 2-minute clip from a 2-hour video takes seconds, not the whole video's time and space.
 
 **Can it download a whole YouTube playlist or channel?**
 It's built for single posts and videos. Playlist links download their videos one by one.
