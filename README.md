@@ -7,7 +7,7 @@
 <p align="center">
   Save videos, photos and audio from <b>YouTube, Facebook, Instagram, Threads, X, Pinterest, TikTok and LinkedIn</b>.<br>
   Native apps for <b>Mac</b> and <b>Windows</b>. Paste a link and it downloads.<br>
-  YouTube, Facebook and Instagram are <b>free</b>. <b>Pro</b> (৳200, lifetime) adds X, Threads, Pinterest, TikTok and LinkedIn, plus 4K, WAV and faster downloads.
+  YouTube, Facebook and Instagram are <b>free</b>. <b>Pro</b> (৳200, lifetime) adds X, Threads, Pinterest, TikTok and LinkedIn, plus 4K, WAV, downloading just a part and faster downloads.
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 - **Quality up to 4K.** Choose Best available, 4K, 1440p, 1080p, 720p or 480p.
 - **Just the part you need.** Turn on **Only download a part**, paste the link, then drag the yellow handles on the video's
   timeline while the preview plays, or type a start and end like `1:05` to `2:30`. Only that stretch downloads. It works for
-  video and audio. Free.
+  video and audio. Pro.
 - **Audio only.** Save as **MP3** (small) or **WAV** (lossless 16-bit PCM, ready for editing).
 - **Photos.** Full-resolution images and whole carousels, with WebP photos converted to JPG automatically.
 - **Save where you want.** Pick a default folder, or have the app **ask where to save each time**.
@@ -82,7 +82,7 @@
 | Video quality | up to 1080p | up to 4K |
 | Audio | MP3 | MP3 and WAV |
 | Photos and carousels, H.264 MP4, WebP to JPG, browser login | ✅ | ✅ |
-| Download only a part of a video | ✅ | ✅ |
+| Download only a part of a video | | ✅ |
 | Links per paste | one | many at once |
 | Downloads at the same time | one | three |
 | Save location | Downloads › Universal Downloader | any folder, or ask each time |
@@ -93,7 +93,7 @@ without a license opens Unlock Pro and says what it needs.
 
 <table>
   <tr>
-    <td align="center"><img src="docs/pro-locked-start.png" width="400" alt="Without Pro: TikTok, X, Threads, Pinterest and LinkedIn are dimmed, Ask each time has a PRO tag, and the footer says Unlock Pro"><br><sub>Without Pro</sub></td>
+    <td align="center"><img src="docs/pro-locked-start.png" width="400" alt="Without Pro: TikTok, X, Threads, Pinterest and LinkedIn are dimmed, Ask each time and Only download a part have a PRO tag, and Unlock Pro sits at the top right"><br><sub>Without Pro</sub></td>
     <td align="center"><img src="docs/pro-unlocked-start.png" width="400" alt="With Pro: every platform logo in full colour, 3 downloads at a time and a green Pro button"><br><sub>With Pro</sub></td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ without a license opens Unlock Pro and says what it needs.
 **Get Pro.** Buy it on [SupportKori](https://www.supportkori.com/mohammad989/extras/universal-downloader-pro-lifetime-license-mac-windows-83m6) for ৳200 (bKash, Nagad, Rocket or card). You get your license key right away,
 on the page and by email. You can also message [MOHAMMAD-HASAN on Instagram](https://www.instagram.com/kam_rul_69/) for a code.
 
-**Activate it.** Click **Unlock Pro** at the bottom of the window (on Mac it's also in the app menu), enter your email and the key, and click **Unlock**.
+**Activate it.** Click **Unlock Pro** at the top right of the window (on Mac it's also in the app menu), enter your email and the key, and click **Unlock**.
 You need an internet connection for this step only.
 
 <img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: what Pro includes, the five Pro platforms, email and license code boxes, Get a code and Unlock">
@@ -130,7 +130,7 @@ Activate your code and the waiting downloads start by themselves.
   <img src="docs/audio-dark.png" width="820" alt="Audio mode with WAV format selected">
 </picture>
 
-**Only the part you need.** Download a few minutes of an hour-long video instead of the whole thing. Turn on
+**Only the part you need (Pro).** Download a few minutes of an hour-long video instead of the whole thing. Turn on
 **Only download a part** and paste the link: **Choose the part** opens with a live preview. Drag the yellow ‹ › handles to
 where the part starts and ends (the white playhead shows the exact time), press ▶ to watch it, or type the times
 (`45`, `1:05` or `1:02:30`). Then press **Download part**. Only those bytes download, so it's fast; the cut lands exactly
@@ -144,7 +144,7 @@ on your times, the file name says which part it is, and the option turns itself 
 
 **Updates arrive by themselves.** When a new version is published here, every installed copy offers it.
 
-<img src="docs/update-banner.png" width="820" alt="Version 1.19 is available, with Later and Update now buttons">
+<img src="docs/update-banner.png" width="820" alt="Version 1.21 is available, with Later and Update now buttons">
 
 ## Install
 
@@ -169,7 +169,7 @@ Get both files from **[Releases](../../releases/latest)**.
 2. In the app, press **Paste & Download**, or paste into the box and press **Download**.
 3. Choose **Type** if you want: **Auto** (everything), **Video**, **Audio** (MP3/WAV) or **Photos**.
 4. When it finishes, press **Show in Finder** (**Show in folder** on Windows), or double-click it to open the file.
-5. For X, Threads, Pinterest, TikTok or LinkedIn, 4K, WAV or many links at once, click **Unlock Pro** once and enter your license key ([Free & Pro](#free-and-pro)).
+5. For X, Threads, Pinterest, TikTok or LinkedIn, 4K, WAV, many links at once or downloading just a part, click **Unlock Pro** once and enter your license key ([Free & Pro](#free-and-pro)).
 
 Files go to **Downloads → Universal Downloader** unless you choose another folder under **Save to**.
 
