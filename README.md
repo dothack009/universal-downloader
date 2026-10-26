@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇ Download the latest version</b></a>
+  <a href="../../releases/latest/download/Universal-Downloader-Mac.dmg"><b>⬇ Download for Mac</b></a>
+  &nbsp;·&nbsp; <a href="../../releases/latest/download/Universal-Downloader-Windows.exe"><b>⬇ Download for Windows</b></a>
   &nbsp;·&nbsp; <a href="#install">Install</a>
   &nbsp;·&nbsp; <a href="#how-to-use">How to use</a>
   &nbsp;·&nbsp; <a href="#free-and-pro">Free &amp; Pro</a>
@@ -148,18 +149,18 @@ on your times, the file name says which part it is, and the option turns itself 
 
 ## Install
 
-Get both files from **[Releases](../../releases/latest)**.
+**[⬇ Download for Mac](../../releases/latest/download/Universal-Downloader-Mac.dmg)** · **[⬇ Download for Windows](../../releases/latest/download/Universal-Downloader-Windows.exe)** (always the newest version; older ones are under [Releases](../../releases)).
 
 ### Mac (macOS 14 Sonoma or newer, Apple Silicon and Intel)
 
-1. Open `Universal-Downloader-<version>.dmg` and drag **Universal Downloader** onto **Applications**.
+1. Open `Universal-Downloader-Mac.dmg` and drag **Universal Downloader** onto **Applications**.
 2. Open the app. The first time, macOS blocks it because it isn't from the App Store.
    Go to **System Settings → Privacy & Security**, scroll down and click **Open Anyway**. You only do this once.
 3. Setup runs automatically (about 30 seconds). Then you're ready.
 
 ### Windows (Windows 10 or 11, 64-bit)
 
-1. Download `Universal-Downloader-<version>.exe` and put it wherever you like (Desktop, Documents…). There's nothing to install.
+1. Download `Universal-Downloader-Windows.exe` and put it wherever you like (Desktop, Documents…). There's nothing to install.
 2. If **"Windows protected your PC"** appears, click **More info → Run anyway**. You only do this once.
 3. Setup starts by itself on first launch. It downloads about 170 MB, once.
 
@@ -178,6 +179,8 @@ Files go to **Downloads → Universal Downloader** unless you choose another fol
 **Instagram or X says it needs a login.**
 Log in to the site in your browser, then pick that browser under **Login** in the app and press **Retry**.
 On Mac, choose Chrome, Brave or Safari: Brave and Chrome ask once for keychain access (click **Always Allow**); Safari needs Full Disk Access for the app.
+If the app says macOS didn't let it read your browser's login (this can happen after an update), turn on **Universal Downloader**
+in **System Settings → Privacy & Security → Full Disk Access** and press **Retry**. Public videos download without a login either way.
 On Windows, use **Firefox**: Windows doesn't let other apps read Chrome, Edge or Brave logins.
 
 **YouTube says "Sign in to confirm you're not a bot".**
