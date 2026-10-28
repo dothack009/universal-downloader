@@ -57,7 +57,7 @@
 - **Live progress.** Speed, time left, three downloads at once, Stop / Retry / Show in Finder for each one, and
   All / In progress / Finished tabs.
 - **Sets itself up.** On first launch it installs its download engines automatically, in about 30 seconds. No Terminal, no extra installs.
-- **Stays current by itself.** Every time you open it, the app quietly updates its download engines, so sites that change keep working. There's no button to remember.
+- **Stays current by itself.** When you open it, and every 6 hours while it's open, the app quietly updates its download engines, so sites that change keep working. There's no button to remember.
 - **Updates itself.** When a new version comes out, the app shows **Update now**. One click installs it and restarts.
 - **A clean, simple window.** One big link box with everything else right under it, in light and dark mode to match your system.
 
@@ -160,9 +160,10 @@ on your times, the file name says which part it is, and the option turns itself 
 
 ### Windows (Windows 10 or 11, 64-bit)
 
-1. Download `Universal-Downloader-Windows.exe` and put it wherever you like (Desktop, Documents…). There's nothing to install.
+1. Download `Universal-Downloader-Windows.exe` (the installer) and open it.
 2. If **"Windows protected your PC"** appears, click **More info → Run anyway**. You only do this once.
-3. Setup starts by itself on first launch. It downloads about 170 MB, once.
+3. Click **Next**, choose where to install it (or keep the suggested folder) and click **Install**. It doesn't need administrator rights, and the download engines are included, so there's nothing else to download.
+4. Open it from the desktop or the Start menu. To remove it, use **Settings → Apps**.
 
 ## How to use
 
