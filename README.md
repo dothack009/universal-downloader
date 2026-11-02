@@ -93,7 +93,7 @@ without a license opens Unlock Pro and says what it needs.
 
 <table>
   <tr>
-    <td align="center"><img src="docs/pro-locked-start.png" width="400" alt="Without Pro: TikTok, X, Threads, Pinterest and LinkedIn are dimmed, Ask each time and Only download a part have a PRO tag, and Unlock Pro sits at the top right"><br><sub>Without Pro</sub></td>
+    <td align="center"><img src="docs/pro-locked-start.png" width="400" alt="Without Pro: Video, Audio and Photos, TikTok, X, Threads, Pinterest and LinkedIn dimmed, Ask each time and Only download a part with a PRO tag, and Unlock Pro at the top right"><br><sub>Without Pro</sub></td>
     <td align="center"><img src="docs/pro-unlocked-start.png" width="400" alt="With Pro: every platform logo in full colour, 3 downloads at a time and a green Pro button"><br><sub>With Pro</sub></td>
   </tr>
 </table>
@@ -144,7 +144,7 @@ on your times, the file name says which part it is, and the option turns itself 
 
 **Updates arrive by themselves.** When a new version is published here, every installed copy offers it.
 
-<img src="docs/update-banner.png" width="820" alt="Version 1.21 is available, with Later and Update now buttons">
+<img src="docs/update-banner.png" width="820" alt="Version 1.30 is available, with Later and Update now buttons">
 
 ## Install
 
