@@ -42,7 +42,7 @@
 ## Features
 
 - **Paste and go.** Copy a link and press **Paste & Download** (⇧⌘V on Mac, Ctrl+Shift+V on Windows). Paste several links at once, or drag them onto the window.
-- **8 platforms, one app.** Auto mode picks the right method for each site and gets photos *and* videos, including carousels with both.
+- **8 platforms, one app.** Video picks the right method for each site, and when a post has no video it saves its photos, including carousels with both.
 - **Free and Pro.** YouTube, Facebook and Instagram are free forever. A Pro license adds five more platforms and the power tools. See [Free & Pro](#free-and-pro).
 - **Editing-friendly video.** By default videos are saved as **H.264 MP4**, which opens in QuickTime, Premiere Pro, After Effects, Final Cut and DaVinci Resolve,
   at the highest quality available. When a site only has its best quality in another format (Instagram's 1080p, YouTube's 4K), the app converts it to H.264 for you.
@@ -51,10 +51,9 @@
   timeline while the preview plays, or type a start and end like `1:05` to `2:30`. Only that stretch downloads. It works for
   video and audio. Pro.
 - **Audio only.** Save as **MP3** (small) or **WAV** (lossless 16-bit PCM, ready for editing).
-- **Photos.** Full-resolution images and whole carousels, with WebP photos converted to JPG automatically.
+- **Photos.** Full-resolution images and whole carousels, saved as **JPG** (small) or **PNG** (lossless), whatever the site sends.
 - **Save where you want.** Pick a default folder, or have the app **ask where to save each time**.
-- **Private posts.** For Instagram, X and other posts that need a login, the app can use the login from your browser. You never type a password into the app.
-- **Live progress.** Speed, time left, three downloads at once, Stop / Retry / Show in Finder for each one, and
+- **Live progress.** The percent beside each bar and how many MB are done and left, three downloads at once, Stop / Retry / Show in Finder for each one, and
   All / In progress / Finished tabs.
 - **Sets itself up.** On first launch it installs its download engines automatically, in about 30 seconds. No Terminal, no extra installs.
 - **Stays current by itself.** When you open it, and every 6 hours while it's open, the app quietly updates its download engines, so sites that change keep working. There's no button to remember.
@@ -66,9 +65,9 @@
 | | Platform | Plan | Videos | Photos | Notes |
 |:-:|---|:-:|:-:|:-:|---|
 | <img src="docs/icons/brand-youtube.png" width="24"> | YouTube | Free | ✅ | | Up to 1080p free, 4K with Pro. Audio as MP3 (WAV with Pro). |
-| <img src="docs/icons/brand-facebook.png" width="24"> | Facebook | Free | ✅ | ✅ | Some posts need your login. |
-| <img src="docs/icons/brand-instagram.png" width="24"> | Instagram | Free | ✅ | ✅ | Posts, reels and carousels. Instagram usually needs your login. |
-| <img src="docs/icons/brand-x.png" width="24"> | X (Twitter) | **Pro** | ✅ | ✅ | Photo posts need your login. |
+| <img src="docs/icons/brand-facebook.png" width="24"> | Facebook | Free | ✅ | ✅ | Public posts. |
+| <img src="docs/icons/brand-instagram.png" width="24"> | Instagram | Free | ✅ | ✅ | Public posts, reels and carousels. Instagram sometimes limits them for a while. |
+| <img src="docs/icons/brand-x.png" width="24"> | X (Twitter) | **Pro** | ✅ | ✅ | Public posts. |
 | <img src="docs/icons/brand-threads.png" width="24"> | Threads | **Pro** | ✅ | ✅ | Public posts, including mixed photo and video carousels. |
 | <img src="docs/icons/brand-pinterest.png" width="24"> | Pinterest | **Pro** | ✅ | ✅ | Video and image pins. |
 | <img src="docs/icons/brand-tiktok.png" width="24"> | TikTok | **Pro** | ✅ | ✅ | Videos and photo slideshows. |
@@ -82,7 +81,7 @@
 | X, Threads, Pinterest, TikTok, LinkedIn | | ✅ |
 | Video quality | up to 1080p | up to 4K |
 | Audio | MP3 | MP3 and WAV |
-| Photos and carousels, H.264 MP4, WebP to JPG, browser login | ✅ | ✅ |
+| Photos and carousels (JPG or PNG), H.264 MP4 | ✅ | ✅ |
 | Download only a part of a video | | ✅ |
 | Links per paste | one | many at once |
 | Downloads at the same time | one | three |
@@ -169,7 +168,7 @@ on your times, the file name says which part it is, and the option turns itself 
 
 1. Copy a link to a post or video from any supported site.
 2. In the app, press **Paste & Download**, or paste into the box and press **Download**.
-3. Choose **Type** if you want: **Auto** (everything), **Video**, **Audio** (MP3/WAV) or **Photos**.
+3. Choose **Type** if you want: **Video** (the video, or the photos when a post has none), **Audio** (MP3/WAV) or **Photos** (JPG/PNG).
 4. When it finishes, press **Show in Finder** (**Show in folder** on Windows), or double-click it to open the file.
 5. For X, Threads, Pinterest, TikTok or LinkedIn, 4K, WAV, many links at once or downloading just a part, click **Unlock Pro** once and enter your license key ([Free & Pro](#free-and-pro)).
 
@@ -177,17 +176,14 @@ Files go to **Downloads → Universal Downloader** unless you choose another fol
 
 ## FAQ
 
-**Instagram or X says it needs a login.**
-Log in to the site in your browser, then pick that browser under **Login** in the app and press **Retry**.
-On Mac, choose Chrome, Brave or Safari: Brave and Chrome ask once for keychain access (click **Always Allow**); Safari needs Full Disk Access for the app.
-If the app says macOS didn't let it read your browser's login (this can happen after an update), turn on **Universal Downloader**
-in **System Settings → Privacy & Security → Full Disk Access** and press **Retry**. Public videos download without a login either way.
-On Windows, use **Firefox**: Windows doesn't let other apps read Chrome, Edge or Brave logins.
+**Instagram or X says it may need a login.**
+The app downloads public posts. A private post can't be downloaded, and Instagram and X sometimes limit public posts for a
+while: try again later, and check that the post opens in a browser without signing in.
 
 **YouTube says "Sign in to confirm you're not a bot".**
 YouTube sometimes asks a whole internet connection to prove it's human, often on shared or mobile networks and VPNs.
-The app automatically retries in a different way, which usually works. If it still fails, sign in to YouTube in your browser
-(on Windows, use **Firefox**), pick that browser under **Login** and press **Retry**. Turning off a VPN or switching networks also helps.
+The app automatically retries in a different way, which usually works. If it still fails, turn off a VPN or switch networks
+and press **Retry**, or try again later.
 
 **A site stopped working.**
 Sites change often. Close and reopen the app: it updates its download engines every time it opens. If a new app version is out, it also offers **Update now**.
